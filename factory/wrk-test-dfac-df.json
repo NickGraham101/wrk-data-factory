@@ -1,9 +1,0 @@
-{
-	"name": "wrk-test-dfac-df",
-	"location": "westeurope",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "f0825b75-c011-47e9-993a-929a03caba9f",
-		"tenantId": "69120d36-5433-403f-9d0b-d1af3ac0baee"
-	}
-}
