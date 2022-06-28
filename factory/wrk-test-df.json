@@ -1,0 +1,9 @@
+{
+	"name": "wrk-test-df",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3ff1ab04-4340-4c07-83e4-e2f3d4e9788f",
+		"tenantId": "69120d36-5433-403f-9d0b-d1af3ac0baee"
+	}
+}
