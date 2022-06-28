@@ -1,0 +1,7 @@
+{
+	"name": "wrk-test-kv",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/be945e1a-9f8e-460f-ba15-8d7f73e9e2e0/resourceGroups/wrk-test-rg/providers/Microsoft.KeyVault/vaults/wrk-test-kv",
+		"groupId": "vault"
+	}
+}
