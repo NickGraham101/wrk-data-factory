@@ -12,6 +12,10 @@
 				},
 				"secretName": "wrkteststr"
 			}
+		},
+		"connectVia": {
+			"referenceName": "VNetIntegrated",
+			"type": "IntegrationRuntimeReference"
 		}
 	}
 }
